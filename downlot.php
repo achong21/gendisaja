@@ -24,7 +24,7 @@ switch($file_extension){
 if ($file_extension=='php'){
   echo "<h1>Access forbidden!</h1>
         <p>Maaf, file yang Anda download sudah tidak tersedia atau filenya (direktorinya) telah diproteksi. <br />
-        Silahkan hubungi <a href='mailto:rizal_fzl@yahoo.com'>webmaster</a>.</p>";
+        Silahkan hubungi <a href='mailto:andyprabowo22@yahoo.com'>webmaster</a>.</p>";
   exit;
 }
 else{
